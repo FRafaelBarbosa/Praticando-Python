@@ -1,6 +1,6 @@
 # Praticando-Python
  **Aulas e exercicios praticados no curso em vídeo**
- ![Octocat](C:\Users\rafae\Desktop\octocatpythonpng)
+ ![Octocat](C:\Users\rafae\Desktop\octocatpython.png)
  * **Mundo 01**
   - [x] Exercicio 01
   - [x] Exercicio 02

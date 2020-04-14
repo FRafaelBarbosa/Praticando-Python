@@ -1,4 +1,5 @@
 # Praticando-Python
+    ![Octocat Python](https://www.pinclipart.com/pindetail/ohbxxR_python-octocat-python-git-clipart/)
  **Aulas e exercicios praticados no curso em vídeo**
  * **Mundo 01**
   - [x] Exercicio 01

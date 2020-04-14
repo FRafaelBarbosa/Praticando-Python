@@ -5,8 +5,8 @@
 ---  
 Mundo 01 | Mundo 02 | Mundo 03
 ---|---|---
-- [x] Exercicio 01 | [x] Exercicio 01 | [x] Exercicio 01
-- [x] Exercicio 02 | [x] Exercicio 01 | [x] Exercicio 01
+[x] Exercicio 01 | [x] Exercicio 01 | [x] Exercicio 01
+[x] Exercicio 02 | [x] Exercicio 01 | [x] Exercicio 01
 [x] Exercicio 03 | [x] Exercicio 01 | [x] Exercicio 01
 [x] Exercicio 04 | [x] Exercicio 01 | [x] Exercicio 01
 [x] Exercicio 05 | [x] Exercicio 01 | [x] Exercicio 01

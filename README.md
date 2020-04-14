@@ -1,6 +1,6 @@
 # Praticando-Python
-    ![Octocat Python]()
  **Aulas e exercicios praticados no curso em vídeo**
+ ![Octocat_Python](C:\Users\rafae\Desktop\PinClipart.com_python-clip-art_1630007.png)
  * **Mundo 01**
   - [x] Exercicio 01
   - [x] Exercicio 02

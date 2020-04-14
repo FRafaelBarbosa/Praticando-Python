@@ -1,5 +1,4 @@
 # Praticando-Python
-    ![Octocat Python]()
  **Aulas e exercicios praticados no curso em vídeo**
  * **Mundo 01**
   - [x] Exercicio 01

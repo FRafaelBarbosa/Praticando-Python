@@ -4,7 +4,7 @@
 ![octocatpython](https://user-images.githubusercontent.com/32422863/79257550-29b66180-7e60-11ea-8f03-50d0f8eb63d1.png)
 ---  
 Mundo 01 | Mundo 02 | Mundo 03
----|---|---
+---------|----------|---------
 [x] Exercicio 01 | [x] Exercicio 01 | [x] Exercicio 01
 [x] Exercicio 02 | [x] Exercicio 01 | [x] Exercicio 01
 [x] Exercicio 03 | [x] Exercicio 01 | [x] Exercicio 01
